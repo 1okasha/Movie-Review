@@ -7,8 +7,7 @@ Welcome to this project! Below, you'll find information about the purpose and se
 
 Access the interactive notebook using the link below:
 
-[Open in Google Colab]([https://colab.research.google.com/drive/10qXJrQKHdP2Ms8iHnFepTtuH8MUGRLDV?usp=sharing](https://colab.research.google.com/drive/1k1FoJUFGDHOrU27o5vM_wBs2J4GETU2M#scrollTo=6YifDy79bliQ))
-
+[Open in Google Colab](https://colab.research.google.com/drive/1k1FoJUFGDHOrU27o5vM_wBs2J4GETU2M?usp=sharing)
 
 # **Sentiment Analysis and Topic Modeling on IMDB Reviews**
 
